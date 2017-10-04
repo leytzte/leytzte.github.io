@@ -15,11 +15,12 @@
 # in the templates via {{ site.myvariable }}.
 title: Leytzte's Blog
 
-#email: your-email@example.com
+email: leytzte@gmail.com
 
 description: > # this means to ignore newlines until "baseurl:"
   Leytzte's Blog, hopefully this is helpful to some.
-  If you spot errors, please feel free to send a PR :)
+  If you spot errors or have recommendations, please feel free to send me 
+  a message or open a PR :)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: leytzte
